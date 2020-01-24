@@ -1,7 +1,7 @@
-speak_to_grandma = "I LOVE YOU GRANDMA"
-  if phrase == phrase.upcase
+speak_to_grandma = ""
+  if speak_to_grandma == speak_to_grandma.upcase
     puts "NO, NOT SINCE 1938!"
-  elsif phrase == "I LOVE YOU GRANDMA!"
+  elsif speak_to_grandma == "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN"
   else 
     puts "HUH?! SPEAK UP, SONNY"
