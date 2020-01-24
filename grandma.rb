@@ -1,3 +1,4 @@
 def speak_to_grandma(phrase)
-  if phrase == "I LOVE YOU "
+  if phrase == "I LOVE YOU GRANDMA!"
+    
 end
